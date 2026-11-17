@@ -1,0 +1,16 @@
+{
+  "channels": ["3li_boltx"],
+  "authorization": "Bearer 437764870|FSrzOCx3aeAOuSn2DOuN9vsJPkuGlkjfDQ1rA9WM",
+  "wait_times": {
+    "livestream_active": { "min": 50, "max": 70 },
+    "livestream_inactive": 200,
+    "error_wait": 100
+  },
+  "messages": [
+    "[emote:37226:KEKW]",
+    "عاش",
+    "رقم واحد اي حاجة عموما",
+    "[emote:37226:3li_BoltxLogoBoltx]",
+    "فيفا امتى بقا"
+  ]
+}
